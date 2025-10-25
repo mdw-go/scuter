@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/mdw-go/scuter"
 	"github.com/smarty/gunit"
 	"github.com/smarty/gunit/assert/should"
-	"github.com/smarty/scuter"
 )
 
 func TestHTTPFixture(t *testing.T) {

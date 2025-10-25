@@ -1,3 +1,3 @@
-module github.com/smarty/scuter
+module github.com/mdw-go/scuter
 
-go 1.25
+go 1.25.3

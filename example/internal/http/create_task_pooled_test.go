@@ -5,10 +5,10 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/mdw-go/scuter"
+	"github.com/mdw-go/scuter/example/internal/app"
 	"github.com/smarty/gunit"
 	"github.com/smarty/gunit/assert/should"
-	"github.com/smarty/scuter"
-	"github.com/smarty/scuter/example/internal/app"
 )
 
 func TestCreateTaskFixture(t *testing.T) {

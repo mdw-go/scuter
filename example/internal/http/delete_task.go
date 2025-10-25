@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/smarty/scuter"
-	"github.com/smarty/scuter/example/internal/app"
+	"github.com/mdw-go/scuter"
+	"github.com/mdw-go/scuter/example/internal/app"
 )
 
 type DeleteTaskShell struct {

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/smarty/scuter/internal/should"
+	"github.com/mdw-go/scuter/internal/should"
 )
 
 func TestReadUint64Header(t *testing.T) {

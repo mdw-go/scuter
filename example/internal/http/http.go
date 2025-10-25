@@ -3,7 +3,7 @@ package http
 import (
 	"net/http"
 
-	"github.com/smarty/scuter/example/internal/app"
+	"github.com/mdw-go/scuter/example/internal/app"
 )
 
 func New(logger app.Logger, application app.Handler) http.Handler {

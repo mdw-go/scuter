@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/smarty/scuter/example/internal/app"
-	HTTP "github.com/smarty/scuter/example/internal/http"
+	"github.com/mdw-go/scuter/example/internal/app"
+	HTTP "github.com/mdw-go/scuter/example/internal/http"
 )
 
 func main() {
